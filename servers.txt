@@ -1,0 +1,4 @@
+server1 10.0.0.1 running
+server2 10.0.0.2 stopped
+server3 10.0.0.3 running
+server4 10.0.0.4 failed

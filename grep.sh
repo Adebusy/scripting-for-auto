@@ -1,0 +1,1 @@
+grep -ic "ERROR" application.log

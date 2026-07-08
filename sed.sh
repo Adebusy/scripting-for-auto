@@ -1,0 +1,1 @@
+sed 's/8080/9090/g' ./files/config.conf

@@ -1,0 +1,6 @@
+INFO Application started
+ERROR Database connection failed
+WARNING High memory usage
+error Timeout connecting to API
+INFO Request completed
+ERROR Authentication failed

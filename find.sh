@@ -1,0 +1,1 @@
+find /var/log --type f -name "*.log"  -size 100M
